@@ -10,7 +10,7 @@ export function Header() {
         <div className="flex justify-between items-center">
           <p className="inline-flex items-center space-x-3">
             <a
-              href="https://grafbase.com?ref=chatbase"
+              href="https://codemastermindhq.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -33,7 +33,7 @@ export function Header() {
                 />
               </svg>
             </a>
-            <span className="text-white font-bold text-xl">Chatbase</span>
+            <span className="text-white font-bold text-xl">CMHQ</span>
           </p>
           {session ? (
             <div className="flex space-x-1">
