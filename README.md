@@ -1,8 +1,6 @@
-# Chatbase
+![image](https://github.com/Ajay-Dhangar/realtime-chat-app/assets/99037494/6e25cfce-0f2a-4e3c-8561-83511452d17d)
 
 Realtime chat using GraphQL Live Queries, Next.js and NextAuth.js &mdash; [tutorial](https://grafbase.com/guides/how-to-build-a-real-time-chat-app-with-nextjs-graphql-and-server-sent-events)
-
-![Chatbase App](/public/og.png)
 
 ## Tools used
 
